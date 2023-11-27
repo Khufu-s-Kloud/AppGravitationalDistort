@@ -1,0 +1,28 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "cppgdb",
+      "name": "Interop.AsRogAuraServiceLib.dll",
+      "project": "obj\\Release\\net5.0\\Interop.AsRogAuraServiceLib.dll",
+      "projectTarget": "",
+      "comment": "Learn how to configure remote debugging. For more info, see http://aka.ms/vslinuxdebug",
+      "debuggerConfiguration": "gdb",
+      "MIMode": "gdb",
+      "args": [],
+      "env": {}
+    },
+    {
+      "type": "cppgdb",
+      "name": "Interop.AsRogAuraServiceLib.dll(1)",
+      "project": "obj\\Release\\net5.0\\Interop.AsRogAuraServiceLib.dll",
+      "projectTarget": "",
+      "comment": "Learn how to configure remote debugging. For more info, see http://aka.ms/vslinuxdebug",
+      "debuggerConfiguration": "gdb",
+      "MIMode": "lldb",
+      "args": [],
+      "env": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1nMt2ztopBv7QT0xJodniOiccglXXnO0C50XWLHRRv1pxuzQoZShrggd+weyVT4uJjbwbMkf4Hmg4saUJQBZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rdonn\\source\\repos\\AppGravitationalDistort\\AppGravitationalDistort.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdonn\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512",
+    "C:\\Users\\rdonn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdonn\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdonn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdonn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
